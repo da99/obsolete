@@ -1,0 +1,35 @@
+/* highlight code touchups */
+
+div.highlight {
+  background: #FAFAFA;
+  border: 1px dashed #ccc;
+  padding: 5px;
+  margin: 0;
+}
+
+pre {
+ padding: 5px;
+ margin: 0;
+}
+
+span.note {
+  font-weight: bold;
+}
+
+/* The Main Stuff */
+
+body {
+  padding: 10px 10px 90px 170px;
+  background: #fff url('/img/legend.gif') no-repeat -45px -55px;
+}
+
+h1 {
+  font-family: 'Lucida Grande', 'Lucida Sans', Tahoma, Ubuntu sans-serif;
+  font-size: 3em;
+}
+
+h2 {
+  font-weight: normal;
+  font-style: italic;
+  font-family: 'Lucida Grande', 'Lucida Sans', Tahoma, Ubuntu sans-serif;
+}
